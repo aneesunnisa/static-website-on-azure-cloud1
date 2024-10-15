@@ -1,9 +1,9 @@
 # Ecommerce-store
 Discover a seamless shopping experience with our eStore, offering a diverse range of high-quality products to meet all your needs. Enjoy secure transactions, user-friendly navigation, and exceptional customer service every step of the way.
 # Project Details
-1. Project Demo URL: https://mystoragevault.z13.web.core.windows.net/
-2. Demo Video URL: https://www.youtube.com/watch?v=duFw2sVCuuY&t=125s
-3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
+1. Project Demo URL: https://sami07.z29.web.core.windows.net/
+2. Demo Video URL: 
+3. GitHub Repository URL:
 4. Industry: lifestyle - fashion
 # Roles and responsibilities
 1. Anees unnisa (project management) :Manages the web development project.
