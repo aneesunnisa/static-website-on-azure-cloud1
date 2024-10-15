@@ -2,7 +2,7 @@
 Discover a seamless shopping experience with our eStore, offering a diverse range of high-quality products to meet all your needs. Enjoy secure transactions, user-friendly navigation, and exceptional customer service every step of the way.
 # Project Details
 1. Project Demo URL: https://sami07.z29.web.core.windows.net/
-2. Demo Video URL: 
+2. Demo Video URL: https://youtu.be/j8JJ8S9AsDw
 3. GitHub Repository URL:https://github.com/aneesunnisa/static-website-on-azure-cloud1
 4. Industry: lifestyle - fashion
 # Roles and responsibilities
