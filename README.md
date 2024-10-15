@@ -3,7 +3,7 @@ Discover a seamless shopping experience with our eStore, offering a diverse rang
 # Project Details
 1. Project Demo URL: https://sami07.z29.web.core.windows.net/
 2. Demo Video URL: 
-3. GitHub Repository URL:
+3. GitHub Repository URL:https://github.com/aneesunnisa/static-website-on-azure-cloud1
 4. Industry: lifestyle - fashion
 # Roles and responsibilities
 1. Anees unnisa (project management) :Manages the web development project.
